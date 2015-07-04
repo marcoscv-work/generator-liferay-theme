@@ -26,7 +26,7 @@ Available generators:
 
 * [liferay-theme](#create)
 * [liferay-theme:import](#import)
-* [liferay-theme:import](#themelet)
+* [liferay-theme:themelet](#themelet)
 
 ### Create
 
